@@ -1,0 +1,15 @@
+class player{
+
+
+    constructor() {
+
+
+    }
+
+   display () {
+
+
+   }
+
+
+}
